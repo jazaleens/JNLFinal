@@ -1,0 +1,41 @@
+#assign_header {
+	background-color: darkred;
+	font-family: "Didot", Didot;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 18px;
+	text-align: center;
+}
+
+#assign_header h4 {
+	margin-bottom: 0px;
+	font-size: 40px;
+}
+
+#assign_headline h1 {
+	font-size: 40px;
+	font-family: "Didot", Didot;
+	font-weight: bold;
+	padding-top: 100px;
+	
+}
+
+#assign_headline h3{
+	font-size: 20px;
+	font-family: "Didot", Didot;
+}
+
+p {
+	font-family: "Monserrat", Monserrat;
+	font-size: 20px;
+}
+
+.caption {
+	font-size: 18px;
+	color: black;
+	margin-top: 8px;
+}
+
+/*Feel free to add to this file, but leave the
+stuff above alone.*/
